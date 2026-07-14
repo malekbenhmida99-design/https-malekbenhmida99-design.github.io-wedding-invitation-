@@ -1,3 +1,3 @@
 # Wedding invitation
 
-Project link: [Open repository](.)
+Live site: <https://malekbenhmida99-design.github.io/wedding-invitation/>
