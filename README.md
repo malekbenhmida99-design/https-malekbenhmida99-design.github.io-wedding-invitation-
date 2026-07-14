@@ -1,2 +1,3 @@
-# https-malekbenhmida99-design.github.io-wedding-invitation-
-Wedding invitation
+# Wedding invitation
+
+Live site: <https://malekbenhmida99-design.github.io/wedding-invitation/>
